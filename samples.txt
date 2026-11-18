@@ -1,0 +1,8 @@
+s1	A	0_mM_KNO3
+s2	A	200_mM_KNO3
+s3	A	400_mM_KNO3
+s4	A	600_mM_KNO3
+s5	B	0_mM_NOD
+s6	B	200_mM_NOD
+s7	B	400_mM_NOD
+s8	B	600_mM_NOD
